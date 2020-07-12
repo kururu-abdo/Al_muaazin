@@ -1,5 +1,8 @@
 # muaazin
+simple project to build al muaazin app 
+to reminder muslims to  5 times pray
 
+i hope you install it and using it 
 A new Flutter project.
 
 ## Getting Started
